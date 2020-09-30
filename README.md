@@ -11,3 +11,7 @@ Following are some of the undertaken projects:
 3. Tic Tac Toe Game using Python : This is a two player based "tic tac toe" game using various Python modules.
 
 4. Credit Card Validator using Python : This project showcases one of the simple implementations of the "Luhn Algorithm" or Mod 10 Algorithm, which verifies a valid       credit card number. 
+
+5. Getting the Bell Number using Python : This Python program prints the bell number.
+
+6. Rock,Paper,Scissors Game using Python : This project allows you to play the famous childhood game of "Rock,Paper and Scissors" with the computer. It is written using basic Python programming.
